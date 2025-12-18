@@ -1,7 +1,14 @@
 <template>
   <header class="site-header">
     <a class="brand" href="#top">
-      <span class="brand-mark">GA</span>
+      <img
+        class="brand-avatar"
+        src="https://avatars.githubusercontent.com/gray-advantage"
+        alt="Gray Advantage"
+        width="44"
+        height="44"
+        loading="lazy"
+      />
       <span class="brand-text">Gray Advantage</span>
     </a>
 
