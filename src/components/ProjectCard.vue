@@ -49,4 +49,3 @@ const handleSelect = () => {
   emit('select', props.project.id);
 };
 </script>
-

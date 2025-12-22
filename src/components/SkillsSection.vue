@@ -26,4 +26,3 @@
 <script setup>
 import skills from '../data/skills.js';
 </script>
-

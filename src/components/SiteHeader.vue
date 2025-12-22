@@ -52,4 +52,3 @@ const handleLinkClick = () => {
   menuOpened.value = false;
 };
 </script>
-

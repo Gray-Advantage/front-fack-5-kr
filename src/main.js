@@ -3,4 +3,3 @@ import App from './App.vue';
 import './styles/global.css';
 
 createApp(App).mount('#root');
-

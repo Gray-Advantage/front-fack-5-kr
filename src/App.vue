@@ -54,4 +54,3 @@ const handleSelectProject = (projectId) => {
   activeProjectId.value = projectId;
 };
 </script>
-
